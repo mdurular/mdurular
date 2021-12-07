@@ -7,7 +7,7 @@
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-durular/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/mdrlr46)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:mdrlr46@gmail.com)
-[(https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/)](https://public.tableau.com/app/profile/mehmet.durular)
+[![website](https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="20"/)](https://public.tableau.com/app/profile/mehmet.durular)
 [![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://mdurular.medium.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdurular" alt="mdurular" /> </p>
 
