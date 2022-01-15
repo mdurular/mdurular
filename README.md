@@ -1,7 +1,7 @@
 
 ## Hi there. I'm Mehmet...:wave:
-- :telescope: I’m currently working on Data Analyses
-- :seedling: I’m currently learning Data Analyses tools
+- :telescope: I’m currently working on Data Science
+- :seedling: I’m currently learning Data Science tools
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
 ## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-durular/)
